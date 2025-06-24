@@ -73,3 +73,7 @@ The final result is an image that preserves the objects, layout, and structure o
 This task was an excellent opportunity to explore both the theoretical and practical aspects of neural networks, feature extraction, and artistic AI applications. It reinforced my understanding of transfer learning, optimization, and image manipulation. Neural Style Transfer has real-world applications in the field of design, photo editing, content creation, and even in video stylization.
 
 By completing this task, I have successfully implemented a working example of an NST model using VGG19, and I am now more confident in working with computer vision projects involving PyTorch and image-based deep learning models.
+
+ # OUTPUT #
+
+ ![Image](https://github.com/user-attachments/assets/21a409dc-f8a0-4d86-9d92-38b915f871d4)
